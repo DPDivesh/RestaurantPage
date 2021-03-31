@@ -1,0 +1,23 @@
+{
+  "name": "restaurant_page",
+  "version": "1.0.0",
+  "description": "Utilize npm and bundling to create a restaurant web page with tabbed browsing navigation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DPDivesh/RestrauntPage.git"
+  },
+  "author": "divesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DPDivesh/RestrauntPage/issues"
+  },
+  "homepage": "https://github.com/DPDivesh/RestrauntPage#readme",
+  "devDependencies": {
+    "webpack": "^5.27.2",
+    "webpack-cli": "^4.5.0"
+  }
+}

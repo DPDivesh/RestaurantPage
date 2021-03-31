@@ -1,0 +1,3 @@
+Ways to improve assignment:
+- Make a universal function to      reset page, and either reset fully or have another function that rebuilds the basic structure of whats reset.
+- Create functions to remove all of the repeating activities on the website(can really cut down code)
